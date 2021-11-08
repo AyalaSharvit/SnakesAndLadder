@@ -1,0 +1,16 @@
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\bin\Debug\net5.0\LaddersAndSnakes.exe
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\bin\Debug\net5.0\LaddersAndSnakes.deps.json
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\bin\Debug\net5.0\LaddersAndSnakes.runtimeconfig.json
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\bin\Debug\net5.0\LaddersAndSnakes.runtimeconfig.dev.json
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\bin\Debug\net5.0\LaddersAndSnakes.dll
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\bin\Debug\net5.0\ref\LaddersAndSnakes.dll
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\bin\Debug\net5.0\LaddersAndSnakes.pdb
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\LaddersAndSnakes.csproj.AssemblyReference.cache
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\LaddersAndSnakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\LaddersAndSnakes.AssemblyInfoInputs.cache
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\LaddersAndSnakes.AssemblyInfo.cs
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\LaddersAndSnakes.csproj.CoreCompileInputs.cache
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\LaddersAndSnakes.dll
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\ref\LaddersAndSnakes.dll
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\LaddersAndSnakes.pdb
+C:\Users\USER1\Downloads\LaddersAndSnakes\LaddersAndSnakes\obj\Debug\net5.0\LaddersAndSnakes.genruntimeconfig.cache
