@@ -10,7 +10,7 @@ namespace LaddersAndSnakes
   public static class thePlay
   {
    
-
+             
     public static (int, int) ThePlay(int sumUser1, int sumUser2, string name, string moreName)//כל השאלות פה זה לבדוק האם המשבצת היא פה של נחש או ראש של סולם או תחילה של סולם או משבצת זהב
     {
       int chockeSqureFromSnake = Array.IndexOf(snake.MouthSnakes, sumUser1);//בדיקת המשבצת מפנ פה של נחש
@@ -68,13 +68,7 @@ namespace LaddersAndSnakes
       string name1 = "Robbyn";
       string name2 = "Grethel";
       Random dice = new Random();
-      //Console.WriteLine("Enter the number of ladders")
-      //  int numOfLadders = Console.ReadLine(); הועבר למיין
-      // ladder.CreateALadders(ladder.numOfLadders);
-      //Console.WriteLine("Enter the number of Snakes");
-      //int numOfSnakes = Console.ReadLine();
-      // snake.CreateASnakes(snake.numOfSnakes);
-      // goldenTiles.CreateAGoldenTiles();
+     
       int numRound = 1;
 
       while ((sumUser1 <= 100) && (sumUser2 <= 100))

@@ -37,8 +37,7 @@ namespace LaddersAndSnakes
           end = rand.Next(((start / 10 + 1) * (10))+1, 100);
         }
         while (StartLadder.Contains(start) || StartLadder.Contains(end) || EndLadder.Contains(start) || EndLadder.Contains(end));
-        //// לעשות פונקציה שעוברת על שתי המערכים ובודקת אם השתמשו כבר במספר
-        //וגם המספר לא מופיע אף פעם תבדוק אם יש סולם שהוא פחות מ10 צעדים וגם זה לא שסוף הסולם זה 1 ותחילת הסולם זה 0 וגם ששתי המספרים הם לא באותה שורה 
+      
         StartLadder[i] = start;
         EndLadder[i] = end;
         //כך יוצא ששתי המערכים מלאים בתחילת הסולם ובסוף הסולם בהתאמה- האיבר הראשון בשתי המערכים שייך לסולם הראשוןו- במערך 1 לתחילת הסולם ובמערך השני לסוף הסולם.
